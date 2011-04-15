@@ -29,3 +29,8 @@ Go to your browser and type in:
     http://localhost:9292/index.html
     
 You should see "Hello World"
+
+License
+-------
+
+RatPackJS is released under the MIT license.
